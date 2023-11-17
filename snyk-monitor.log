@@ -1,0 +1,9 @@
+
+Monitoring /home/carson/cis4615-work/java-reachability-playground (org.example:java-reachable-goof)...
+
+Explore this snapshot at https://app.snyk.io/org/carsonreilly/project/4cbaf582-aa9a-4a7d-91bf-3db7b01724aa/history/9df9858e-d2eb-46fa-9321-b18048be6a55
+
+Tip: Detected multiple supported manifests (1), use --all-projects to scan all of them at once.
+
+Notifications about newly disclosed issues related to these dependencies will be emailed to you.
+
